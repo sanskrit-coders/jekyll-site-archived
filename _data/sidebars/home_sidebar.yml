@@ -2,6 +2,8 @@
 
 title: Parts
 contents:
+  - title: Home
+    url: /index.html
   - title: Motivation
     url: /pages/motivation.html
   - title: Survey
