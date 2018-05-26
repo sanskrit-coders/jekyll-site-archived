@@ -1,5 +1,5 @@
 ---
-title: "हिन्दु-विचाराः Sanskrit coders"
+title: "संस्कृत-साङ्गणकाः Sanskrit coders"
 tags: [getting_started]
 sidebar: home_sidebar
 permalink: index.html
