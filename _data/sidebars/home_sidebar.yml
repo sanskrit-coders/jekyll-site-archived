@@ -2,26 +2,46 @@
 
 title: Parts
 contents:
+  - title: Motivation
+    url: /pages/motivation.html
   - title: Survey
     url: /pages/survey.html
   - title: Blog
     url: /pages/blog/index.html
-  - title: Publishing
+  - title: Content: Publish & Read
     contents:
       - title: Dictionaries
-        url: /pages/publishing/dicts.html
-      - title: Boooks
-        url: /pages/publishing/books.html
+        url: /pages/content/dicts.html
+      - title: Books
+        url: /pages/content/books.html
       - title: Audio
-        url: /pages/publishing/audio.html
+        url: /pages/content/audio.html
       - title: Apps
-        url: /pages/publishing/apps.html
+        contents:
+          - title: Intro
+            url: /pages/content/apps/intro.html
+          - title: Site translations
+            url: /pages/content/apps/translations.html
+          - title: Deep reading
+            url: /pages/content/apps/deep-reading.html
       - title: Fonts
-        url: /pages/publishing/fonts.html
+        url: /pages/content/fonts.html
+      - title: Digitization/ OCR
+        contents:
+          - title: Intro
+            url: /pages/content/ocr/intro.html
+          - title: Corrections
+            url: /pages/content/ocr/corrections.html
       - title: Law
-        url: /pages/publishing/law.html
+        url: /pages/content/law.html
+      - title: Wikis
+        url: /pages/content/wikis.html
+      - title: Offline web
+        url: /pages/content/offline-web.html
   - title: General tips
     contents:
+      - title: License
+        url: /pages/tips/license.html
       - title: Dev tools
         url: /pages/tips/dev-tools.html
       - title: Python unicode
