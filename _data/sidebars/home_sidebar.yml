@@ -49,9 +49,9 @@ contents:
   - title: Dictionaries
     contents:
       - title: Intro
-        url: /pages/dicts/intro.html
+        url: /pages/dictionaries/intro.html
       - title: Offline
-        url: /pages/dicts/offline.html
+        url: /pages/dictionaries/offline.html
   - title: Grammar
     contents:
       - title: Generation and Analysis
