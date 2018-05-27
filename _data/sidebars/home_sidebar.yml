@@ -11,9 +11,6 @@ contents:
   - title: Blog
     url: /pages/blog/index.html
   - title: Content- Publish & Read
-    contents:
-      - title: Dictionaries
-        url: /pages/content/dicts.html
       - title: Books
         url: /pages/content/books.html
       - title: Audio
@@ -40,6 +37,26 @@ contents:
         url: /pages/content/wikis.html
       - title: Offline web
         url: /pages/content/offline-web.html
+  - title: Input
+    contents:
+      - title: Intro
+        url: /pages/input/intro.html
+      - title: IME/ Typing
+        url: /pages/input/ime.html
+      - title: OPTITRANS
+        url: /pages/input/optitrans.html
+  - title: Dictionaries
+    contents:
+      - title: Intro
+        url: /pages/dicts/intro.html
+      - title: Offline
+        url: /pages/dicts/offline.html
+  - title: Grammar
+    contents:
+      - title: Generation and Analysis
+        url: /pages/grammar/generation.html
+      - title: Parsing
+        url: /pages/grammar/parsing.html
   - title: General tips
     contents:
       - title: License
@@ -49,4 +66,6 @@ contents:
       - title: Python unicode
         url: /pages/tips/py-unicode.html
   - title: Astronomy
-    url: /pages/tools/astronomy.html
+    url: /pages/astronomy.html
+  - title: Misc tools
+    url: /pages/misc-tools.html

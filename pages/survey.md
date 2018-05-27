@@ -6,28 +6,6 @@ ALERT - Several of the links below are broken - IF you know the correct location
 
 Natural Language Processing in general is a thriving field, with open source projects such as [openNLP](http://incubator.apache.org/opennlp/).
 
-Dictionaries and thesauruses
-----------------------------
-
-- Digitize dictionaries([D](http://www.sanskrit-lexicon.uni-koeln.de/), [B](http://sanskrit1.ccv.brown.edu/tomcat/sl/Cologne)), comparative dictionaries([T](http://end.translatum.gr/wiki/%E0%A4%AA%E0%A4%A5%E0%A4%BF%E0%A4%A8%E0%A5%8D)), sUtras and thesarauses([H](http://sanskrit.uohyd.ac.in/scl/amarakosha/index.html)), enable online search([B](http://sanskrit1.ccv.brown.edu/tomcat/sl/Cologne), [2B](http://sanskrit1.ccv.brown.edu/tomcat/sl/FunderburkInterface?type=1)).
-
-    - Make them available on phones as convenient apps ([S](http://sparshapps.com/)) and as stardict/ goldendict files ([here](https://sites.google.com/site/sanskritcode/dictionaries), **[A](http://www.aupasana.com/stardict)**, **[H](http://sanskrit.inria.fr/goldendict.html)**).
-    - On windows [here](https://sourceforge.net/projects/sandic/files/stats/timeline?dates=2012-03-01+to+2017-04-24).
-
-- [Some](http://spokensanskrit.de/) online dictionaries enable collaborative editing.
-
-    - Some do have the following limitations:
-    
-        *   But database updated in this manner is not publicly available.
-        *   They don't currently provide an online API (application programming interface) to build on them easily.
-
-- Concordence tools ([J](http://www.antlab.sci.waseda.ac.jp/software.html)), perhaps using word-roots ([D](http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/)[](http://www.antlab.sci.waseda.ac.jp/software.html)). Word-nets ([IITB](http://www.cfilt.iitb.ac.in/wordnet/webswn/)).
-- Morph analyzer + dictionary chrome plugin and command line tool (**[M](http://morph.diglossa.org/sa)**-git,).
-- Sorting tools \[[**A**](http://anubhav-chattoraj.github.io/indic-tools/devanagari_sorter/), [D](https://docs.google.com/document/d/1t5tWom5GcZIA4TY0U_h84MRdGl4gghQugyti7vacoJA/edit#)\]
-- Hyphenation \[[**Y**](https://github.com/ekmett/hyphenation/blob/master/data/hyph-sa.lic.txt)\]
-- Apps! \[[sp](http://sparshapps.com/), [SJ](https://play.google.com/store/apps/developer?id=Srujan+Jha), [GP](https://play.google.com/store/search?q=sanskrit&c=apps&docType=1&sp=CAFiCgoIc2Fuc2tyaXR6BRgAwAECigECCAE%3D:S:ANO1ljKT9XE), [BV_GOI](http://sanskrit.bharatavani.in/it-tools/)\]
-- Browser extensions \[[SWN_IIT](https://chrome.google.com/webstore/detail/sanskrit-wordnet/aekdldgbleokkpbekjpamfcgoaaggffi/related)\]
-
 Grammar: word generation and analysis
 -------------------------------------
 
@@ -44,13 +22,13 @@ Grammar: word generation and analysis
 
 - prAtipadika declension
 
-- Produce declensions while showing sUtra-s (**[D](http://lanover.com/lan/sanskrit/subanta.html)**).  
+    - Produce declensions while showing sUtra-s (**[D](http://lanover.com/lan/sanskrit/subanta.html)**).  
     
-- Inflected word generation is usually based on the 'word and paradigm' model,  close to the work such as ruupa chandrikaa which gives the naamaruupaavalii for 'typical' words ending in different var.nas in different lingas.
-
-    - ([D](http://www.sanskrit-lexicon.uni-koeln.de/work/fflex/index.html), [I](http://tdil-dc.in/san/skt_gen/generators.html)=[H1](http://sanskrit.uohyd.ac.in/lang_tech/21st-oct/downloads.html), [H](http://sanskrit.uohyd.ac.in/scl/ashtadhyayi_simulator/index.html), [H2](http://sanskrit.uohyd.ac.in/scl/skt_gen/generators.html), [F](http://sanskrit.inria.fr/DICO/grammar.html), [B](http://sanskrit1.ccv.brown.edu/tomcat/sl/NominalMorphology))
-    - Apps ([ViPra](https://plus.google.com/113859883459735318216/posts/Bcv6wpT3qcA))
-    - Limitation: However, as a generative model the above is not perfect because, not being based firmly on pANini's rules (which separate saMskR^ita from apabhraMShA), they may generate wrong inflections.
+    - Inflected word generation is usually based on the 'word and paradigm' model,  close to the work such as ruupa chandrikaa which gives the naamaruupaavalii for 'typical' words ending in different var.nas in different lingas.
+    
+        - ([D](http://www.sanskrit-lexicon.uni-koeln.de/work/fflex/index.html), [I](http://tdil-dc.in/san/skt_gen/generators.html)=[H1](http://sanskrit.uohyd.ac.in/lang_tech/21st-oct/downloads.html), [H](http://sanskrit.uohyd.ac.in/scl/ashtadhyayi_simulator/index.html), [H2](http://sanskrit.uohyd.ac.in/scl/skt_gen/generators.html), [F](http://sanskrit.inria.fr/DICO/grammar.html), [B](http://sanskrit1.ccv.brown.edu/tomcat/sl/NominalMorphology))
+        - Apps ([ViPra](https://plus.google.com/113859883459735318216/posts/Bcv6wpT3qcA))
+        - Limitation: However, as a generative model the above is not perfect because, not being based firmly on pANini's rules (which separate saMskR^ita from apabhraMShA), they may generate wrong inflections.
 
 - These can in-turn be used to analyze inflected words ([1F](http://sanskrit.uohyd.ac.in/Heritage/DICO/index.html#stemmer), [2F](http://sanskrit.inria.fr/DICO/index.html#stemmer), I=[H](http://sanskrit.uohyd.ac.in/scl/morph/index.html), [B](http://sanskrit1.ccv.brown.edu/tomcat/sl/FunderburkInterface?type=2), [Dl](http://sanskrit.jnu.ac.in/subanta/rsubanta.jsp))
 - Produce dictionaries of inflected words ([F](http://sanskrit.inria.fr/DATA/XML/)) and find concordence ([G](http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/index.php)).
@@ -114,13 +92,11 @@ Fonts, OCR and Scanning
 - OCR - [see here](https://sites.google.com/site/sanskritcode/ocr/1-ocr-ing).
 - Formal attempts at encoding Indian scripts in Unicode([B](http://sanskrit1.ccv.brown.edu/tomcat/sl/ScriptTable), [I](http://tdil.mit.gov.in/Request_Feedback/Grantha.aspx) ), fonts ([**M**](http://svayambhava.org/index.php/en/)). Tools to convert old custom fonts to unicode (P, [T](http://hindi-store.tipsadda.com/2010/11/all-hindi-font-converters.html)).
 - DLI downloaders
-
-- See[here](http://sanskritdocuments.org/scannedbooks/). [Sh](https://github.com/sanskrit-coders/DLI-tools).
+    
+    - See[here](http://sanskritdocuments.org/scannedbooks/). [Sh](https://github.com/sanskrit-coders/DLI-tools).
 
 - Reading scanned books on tablet
-
-- Desiderata [here](https://www.facebook.com/vishvas.vasuki/posts/10152929928722989?comment_id=10152930576477989&offset=0&total_comments=4&notif_t=feed_comment).
-- Google Play does a decent job.
+    - Google Play does a decent job.
 
 Interesting collections
 -----------------------
