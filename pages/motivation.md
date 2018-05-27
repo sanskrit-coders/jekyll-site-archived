@@ -1,5 +1,5 @@
 ---
-title: "Motivations""
+title: "Motivations"
 tags: [getting_started]
 sidebar: home_sidebar
 summary: Motivation.

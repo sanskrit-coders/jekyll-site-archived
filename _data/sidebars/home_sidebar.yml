@@ -11,6 +11,7 @@ contents:
   - title: Blog
     url: /pages/blog/index.html
   - title: Content- Publish & Read
+    contents:
       - title: Books
         url: /pages/content/books.html
       - title: Audio
