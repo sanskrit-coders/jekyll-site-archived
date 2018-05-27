@@ -16,3 +16,14 @@ Because many of us Sanskrit-lovers have both programming skills and some Sanskri
 For example, we dream of a day when we will be able to read any English webpage in Sanskrit, when the Sanskrit wikipedia will approach the English version in richness of its content. (For an inkling as to what is possible with some very simple technology, see tools listed in the [Survey](https://sites.google.com/site/sanskritcode/home/survey) page.) 
 
 We want to read flowing sanskrit texts on tablets - they're so many scans.
+
+Besides the limitations noted above, what is conspicuously missing from the above are tools directed at meeting important needs of the popular spoken Sanskrit movement, especially as we increasingly interact with information through computers and the internet.  
+
+- Consuming documents and webpages written in other languages in saMskRRita (There is no google-translate like device at present nor will there be one in the near future).
+- Sanskrit UI versions of commonly used software don't exist (Unlike Arabic, Hebrew..).
+- There are no good Sanskrit browser scripts or extensions to do common things like look up word meanings with a click or a mouse-over.
+- No effort at generating Sanskrit content easily. Eg: Sanskrit wikipedia is nowhere close to the english version. Same goes for the wiktionary.
+
+Open source?
+------------
+In some cases source code for Sanskrit tools are available (the links in bold are said to be - our gratitude!); but much good software is not open-source; and there is quite a bit of duplication of effort. 
