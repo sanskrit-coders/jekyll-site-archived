@@ -6,8 +6,6 @@ contents:
     url: /index.html
   - title: Motivation
     url: /pages/motivation.html
-  - title: Survey
-    url: /pages/survey.html
   - title: Blog
     url: /pages/blog/index.html
   - title: Content- Publish & Read
@@ -52,12 +50,20 @@ contents:
         url: /pages/dictionaries/intro.html
       - title: Offline
         url: /pages/dictionaries/offline.html
+      - title: Spell check
+        url: /pages/dictionaries/spellcheck.html
+      - title: Flashcards
+        url: /pages/dictionaries/flashcards.html
   - title: Grammar
     contents:
-      - title: Generation and Analysis
-        url: /pages/grammar/generation.html
+      - title: Word from root
+        url: /pages/grammar/word-from-root.html
       - title: Parsing
         url: /pages/grammar/parsing.html
+      - title: Sandhi and samAsa
+        url: /pages/grammar/sandhi-samAsa.html
+      - title: Miscellaneous
+        url: /pages/grammar/misc.html
   - title: General tips
     contents:
       - title: License

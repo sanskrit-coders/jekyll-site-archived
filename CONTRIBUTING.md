@@ -1,9 +1,6 @@
 
 You're welcome to contribute. All contributions will be reviewed and merged if accepted.
 
-# Caution
-- Please protect your identity from violent haters - use pseudonymous git accounts if needed. (Git configuration tips: [SO](https://stackoverflow.com/a/45327500/444644).)
-
 # Technical intro
 - This site is produced using the Jekyll static website generator.
 - We use a customized version of the [tomjoht/documentation-theme-jekyll](http://github.com/tomjoht/documentation-theme-jekyll) theme.
