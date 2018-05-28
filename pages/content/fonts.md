@@ -39,18 +39,21 @@ Motivation:
   - Don't want to rely on (potentially inadequate) fonts and text
     rendering engines users have? Some users see weird renderings and
     report "spelling mistakes" where none exist?
+
 Solution:
+
 Use web-fonts (fonts that will be automatically downloaded from the net
-as needed) and css
-[noto
+as needed) and css [noto
 guidelines](https://www.google.com/get/noto/help/guidelines/) (note :
 earlyaccess fonts there don't support vaidika svara-s
     well.)
+
 Example: 
   - [1-notosans-devanagari-github.html](https://github.com/sanskrit-coders/sanskritnlpjava/blob/master/src/main/webapp/fonts/1-notosans-devanagari-github.html "1-notosans-devanagari-github.html")
   - [2-kannada.html](http://sanskritnlp.appspot.com/fonts/2-kannada.html)
     (view its source) . 
   - sanskrit-documents ([pic1](http://i.imgur.com/YiPNBQF.png))
+
 Thread with explanation by shrIvatsa
 [here](https://groups.google.com/d/msg/sanskrit-programmers/PEQBZ4b4OOg/EQeNSKBsWXkJ).
 
@@ -69,13 +72,17 @@ Noto \[[here](https://github.com/googlei18n/noto-fonts/issues)\]
 
 Test using the harfbuzz tool : Ubuntu instructions
 [here](https://groups.google.com/d/msg/sanskrit-programmers/PEQBZ4b4OOg/pPlKqPeEI74J).
+  
   -  hb-view /usr/share/fonts/truetype/ttf-devanagari-fonts/sahadeva.ttf
     अत्र
+
 pango
-pango-view --font "Sahadeva 40" -t अत्र
-pango-view --markup --text '\<span font\_family="FreeSerif"
+
+- pango-view --font "Sahadeva 40" -t अत्र
+- pango-view --markup --text '\<span font\_family="FreeSerif"
 lang="sa" fallback="false"\> अत्र\'
-  - Markup language
+
+- Markup language
     [here](http://www.pygtk.org/pygtk2reference/pango-markup-language.html).
 Google [font
 tester](http://www.google.com/fonts#ChoosePlace:select/Script:devanagari).
@@ -85,19 +92,13 @@ tester](http://www.google.com/fonts#ChoosePlace:select/Script:devanagari).
 Fonts can also be tested on chrome by following a two step process.
 
 
-Install the font.
-Choose to use the font in
-Chrome:
+- Install the font.
+- Choose to use the font in Chrome:
   - Go to settings
-  - Search for "font" in
-    settings
-  - get to the "Customize
-    fonts" button
-  - set all choices to the
-    font you
-    test. Or view
-    a text file in Chrome after setting just the monospace font.
-gmail and its compose window may use some other
+  - Search for "font" in settings
+  - get to the "Customize fonts" button
+  - set all choices to the font you test. Or view a text file in Chrome after setting just the monospace font.
+- gmail and its compose window may use some other
 font.
 
 
