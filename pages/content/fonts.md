@@ -6,13 +6,9 @@ title: Fonts
 
 
 ## Font styles
-There
-is one major dichotomy, alluded to by various names: Bombay/Calcutta,
-Southern/Northern,
-Modern/Old. [http://i.imgur.com/O68gV2O.png](https://google.com/url?sa=D&q=http%3A%2F%2Fi.imgur.com%2FO68gV2O.png) illustrates
-this.
-A
-few other resources here:
+There is one major dichotomy, alluded to by various names: Bombay/Calcutta, Southern/Northern, Modern/Old. [http://i.imgur.com/O68gV2O.png](https://google.com/url?sa=D&q=http%3A%2F%2Fi.imgur.com%2FO68gV2O.png) illustrates this.
+
+A few other resources here:
   - [Archive
     collection](https://google.com/url?sa=D&q=https%3A%2F%2Farchive.org%2Fdownload%2FDevanAgarITypographyResources) .
   - Velthius
@@ -20,23 +16,19 @@ few other resources here:
   - Resources:
     See messages/ attachments in
     \[[1](https://groups.google.com/forum/#!topic/sanskrit-programmers/zqzAXZvE92Y), [2](https://groups.google.com/forum/#!topic/sanskrit-programmers/kdUCcoQk3us)\].
-Fonts
-that are close to the old style:
-  - Sanskrit 2003 font was
-    based on nirNaya-sAgar
-    books.
-  - Uttara
-    font
+
+Fonts that are close to the old style:
+
+  - Sanskrit 2003 font was based on nirNaya-sAgar books.
+  - Uttara font
     ([http://www.sanskritweb.net/cakram/](http://www.google.com/url?q=http%3A%2F%2Fwww.sanskritweb.net%2Fcakram%2F&sa=D&sntz=1&usg=AFQjCNGDxpeBekYbly2K1YHXoFzdfiTntA))
   - Sahadeva
     ([http://bombay.indology.info/software/fonts/devanagari/](http://www.google.com/url?q=http%3A%2F%2Fbombay.indology.info%2Fsoftware%2Ffonts%2Fdevanagari%2F&sa=D&sntz=1&usg=AFQjCNEYLX-ZHFJ1xCk1ThF8yic28Djthg))
-Other information on
-Ulrich's
-site: [here](http://www.sanskritweb.net/itrans/index.html#S99FONTS).
-Font
-directories
-  - Alan
-    Woods'
+
+Other information on Ulrich's site: [here](http://www.sanskritweb.net/itrans/index.html#S99FONTS).
+
+Font directories
+  - Alan Woods'
     listing [here](http://www.alanwood.net/unicode/fonts-south-asian.html#devanagari).
   - devanAgarI.net
     listing [here](http://www.devanaagarii.net/fonts/).
@@ -71,41 +63,7 @@ Chrome.
 Free desktop
   - Outstanding bugs
     [1](https://bugs.freedesktop.org/show_bug.cgi?id=70509).
-Noto \[below are dead links, moved to git
-[here](https://github.com/googlei18n/noto-fonts/issues)\]
-  - 
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    
-    
-    
-    
-    
-    
-    
-  - 
-    
-    
-    
-    svarita before visarga
-    - 
-    
-    
+Noto \[[here](https://github.com/googlei18n/noto-fonts/issues)\]
 
 ## Testing
 
