@@ -15,6 +15,8 @@ I'd once created <https://sites.google.com/site/sanskritcode/> mainly to catalog
 
 Now I've moved all the content to <https://sanskrit-coders.github.io/site/>, which uses the Jekyll static site generator and a fork of the [documentation-theme-jekyll](https://github.com/tomjoht/documentation-theme-jekyll) theme. Turning the HTML to markdown required creating [google-sheets-to-markdown](https://vvasuki.github.io/google-sheets-to-markdown/).
 
+- **<https://sites.google.com/site/sanskritcode/> will be deleted after a few days.**
+
 ### Advantages
 - Anyone can use the convenient "Edit me" button to contribute changes via the github pull request.
 - Whether or not this attracts more contributions (I suspect it won't), atleast the data is freed from Google so that anyone can easily copy and host it.
