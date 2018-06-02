@@ -1,5 +1,5 @@
 ---
-title: Law: copyright etc..
+title: Law- copyright etc..
 ---
 ## Copyright reference
 

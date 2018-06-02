@@ -41,7 +41,7 @@ One can use something like Distributed Proofreaders ([http://www.pgdp.net/](http
 - Your knowledge will increase.
 - You will enjoy the process - especially if you are book-lover.
 - You will be generating training data that can help make better sanskrit OCR software!
-- You will be helping many other knowledge-lovers. (see "[why digitize](https://sites.google.com/site/sanskritcode/ocr/0-introduction)?" section here.)
+- You will be helping many other knowledge-lovers. (see "[why digitize](intro.html)?" section here.)
 
 ## Desired corrections, markup, proof-reading
 

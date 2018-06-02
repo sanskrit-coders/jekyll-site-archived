@@ -20,7 +20,7 @@ title: Intro
 
 - Want to easily search for the source of that amazing shloka someone mentioned?
 - Want to look up a certain term in (say) the abhyankar grammar dictionary on your phone?
-- Want to read flowing text comfortably on your tablet on phone? Want your annotations to be safe for ever? (See advantages described [here](https://sites.google.com/site/sanskritcode/tutorials/book-making))
+- Want to read flowing text comfortably on your tablet on phone? Want your annotations to be safe for ever? (See advantages described [here](../books.md))
 - Want to carry an entire library on your tablet?
 - Want your phone to read out a certain text?
 - Dream of a richer sanskrit wikipedia, wikisource etc..?

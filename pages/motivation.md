@@ -13,7 +13,7 @@ Volunteer effort is a labor of love, and many of us here carry deep sentiments, 
 
 Because many of us Sanskrit-lovers have both programming skills and some Sanskrit knowledge (if not linguistics/ NLP expertise), there is now great opportunity and will to develop useful Sanskrit tools.
 
-For example, we dream of a day when we will be able to read any English webpage in Sanskrit, when the Sanskrit wikipedia will approach the English version in richness of its content. (For an inkling as to what is possible with some very simple technology, see tools listed in the [Survey](https://sites.google.com/site/sanskritcode/home/survey) page.) 
+For example, we dream of a day when we will be able to read any English webpage in Sanskrit, when the Sanskrit wikipedia will approach the English version in richness of its content.
 
 We want to read flowing sanskrit texts on tablets - they're so many scans.
 

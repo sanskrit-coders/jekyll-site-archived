@@ -11,7 +11,7 @@ title: Procedure
 
 - A good OCR has high accuracy.
 - It may be better to keep the OCR result as separate pages, and have them associated with the original images. This can help in the following ways:
-    - helps proofreading, as [described here](https://sites.google.com/site/sanskritcode/ocr/3-corrections).
+    - helps proofreading, as [described here](corrections.html).
     - it may be helpful to include with each entry a link to the page in the book, so that even if the reader/user suspects OCR errors, they can click on the link and see the original page. (I've used this feature in the MW dictionary a few times.)
 
 ## How to OCR?
@@ -59,5 +59,5 @@ PDF text extraction: see thread [here](https://groups.google.com/d/msg/sanskrit-
 
 ## Why be an OCR volunteer?
 
-- You will be helping many other knowledge-lovers. (see "[why digitize](https://sites.google.com/site/sanskritcode/ocr/0-introduction)?" section here.)
+- You will be helping many other knowledge-lovers. (see "[why digitize](intro.md)?" section here.)
 - You will have the satisfaction of putting your technical skills and time to good use.

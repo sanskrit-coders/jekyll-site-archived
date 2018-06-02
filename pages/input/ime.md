@@ -16,7 +16,7 @@ Title: IME/ typing
             - MDEBUG_INPUT=1 m17n-edit --im hi-optitransv2
             - Configure: m17n-im-config or [http://i.imgur.com/vtq0njh.png](http://i.imgur.com/vtq0njh.png)
 
-        - Linux ibus sanskrit/ kannada users: For your typing convenience download and use - see [optitrans](https://sites.google.com/site/sanskritcode/optitrans).
+        - Linux ibus sanskrit/ kannada users: For your typing convenience download and use - see [optitrans](optitrans.md).
 
     - Windows([I](http://en.wikipedia.org/wiki/Intelligent_Input_Bus), [G](http://www.google.com/ime/transliteration/), [M](http://specials.msn.co.in/ilit/WebEmbed.aspx?language=Kannada), [B](https://sites.google.com/site/bhashaime/)..) to input Indic script directly without copy-pasting.
 

@@ -5,8 +5,7 @@ title: Books
 
 ### Advantages
 
-फलकादिषु जङ्गमयन्त्रेषु संस्कृतपुस्तकपठनं मे ऽतिरोचते। उदाहरणमत्र वीक्षेथाम् \- [http://i.imgur.com/MHj9suN.png](http://i.imgur.com/MHj9suN.png)। तेनाधिकसंस्कृतपुस्तकानि तथा प्रकाश्येरन्निति काङ्क्षा मदीया। एवं प्रकाशनं नास्ति कठिनम्। [https://goo.gl/yxalAj  
-](https://goo.gl/yxalAj) इत्यत्र दृश्यमानानि खलु मयैव प्रकाशितानि [https://sites.google.com/site/sanskritcode/tutorials/book-making](https://sites.google.com/site/sanskritcode/tutorials/book-making) इत्यत्रोक्तरीत्या।
+फलकादिषु जङ्गमयन्त्रेषु संस्कृतपुस्तकपठनं मे ऽतिरोचते। उदाहरणमत्र वीक्षेथाम् \- [http://i.imgur.com/MHj9suN.png](http://i.imgur.com/MHj9suN.png)। तेनाधिकसंस्कृतपुस्तकानि तथा प्रकाश्येरन्निति काङ्क्षा मदीया। एवं प्रकाशनं नास्ति कठिनम्। 
 
 [![](http://i.imgur.com/MHj9suN.png)](http://i.imgur.com/MHj9suN.png)
 
