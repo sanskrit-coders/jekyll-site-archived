@@ -21,3 +21,6 @@ Now I've moved all the content to <https://sanskrit-coders.github.io/site/>, whi
 - Anyone can use the convenient "Edit me" button to contribute changes via the github pull request.
 - Whether or not this attracts more contributions (I suspect it won't), atleast the data is freed from Google so that anyone can easily copy and host it.
 - Folks can use Disqus tool at the bottom to comment on the pages as well!
+
+## Comments
+Feel free to use this Jekyll theme/ setup for your own sites!
