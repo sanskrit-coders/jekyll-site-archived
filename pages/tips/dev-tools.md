@@ -1,7 +1,7 @@
 ---
 title: Dev tools
 ---
-Public file distribution
+## Public file distribution
 
   - archive.org
   - github releases
@@ -18,11 +18,12 @@ Project tracking
   - trello.com - list tasks (assignable, can specify due date, can track
     activity), allow private boards
 
-Remote collaborative coding
+## Remote collaborative coding
 
-  - github - very popular, supports releases, issue tracking etc..
+- github - very popular, supports releases, issue tracking etc..
+  - दोषं शोधयित्वा "pull" अभ्यर्थनां प्रेषयितुम् अर्हति। ( [https://help.github.com/articles/cloning-a-repository/](https://help.github.com/articles/cloning-a-repository/) तथा [https://help.github.com/articles/creating-a-pull-request/](https://help.github.com/articles/creating-a-pull-request/) इति पठतु।)
 
-3d printing
+## 3d printing
 
   - sketchfab guide
     [here](https://help.sketchfab.com/hc/en-us/articles/202397889-3D-Printing). 

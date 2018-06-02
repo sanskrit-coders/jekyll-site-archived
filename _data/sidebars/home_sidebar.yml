@@ -10,24 +10,24 @@ contents:
     url: /pages/blog/index.html
   - title: Content- Publish & Read
     contents:
+      - title: General info
+        url: /pages/content/misc.html
       - title: Books
         url: /pages/content/books.html
       - title: Audio
         url: /pages/content/audio.html
-      - title: Apps
-        contents:
-          - title: Intro
-            url: /pages/content/apps/intro.html
-          - title: Site translations
-            url: /pages/content/apps/translations.html
-          - title: Deep reading
-            url: /pages/content/apps/deep-reading.html
+      - title: Translations
+        url: /pages/content/translations.html
+      - title: Deep reading
+        url: /pages/content/deep-reading.html
       - title: Fonts
         url: /pages/content/fonts.html
       - title: Digitization/ OCR
         contents:
           - title: Intro
             url: /pages/content/ocr/intro.html
+          - title: Procedure
+            url: /pages/content/ocr/ocr-ing.html
           - title: Corrections
             url: /pages/content/ocr/corrections.html
       - title: Law

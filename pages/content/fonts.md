@@ -3,7 +3,9 @@ title: Fonts
 ---
 - Formal attempts at encoding Indian scripts in Unicode([B](http://sanskrit1.ccv.brown.edu/tomcat/sl/ScriptTable), [I](http://tdil.mit.gov.in/Request_Feedback/Grantha.aspx) ), fonts ([**M**](http://svayambhava.org/index.php/en/)). 
 - Tools to convert old custom fonts to unicode (P, [T](http://hindi-store.tipsadda.com/2010/11/all-hindi-font-converters.html)).
-
+  - Online
+      - Unigateway / medha site backend [here](http://sourceforge.net/projects/unigateway/?source=typ_redirect).
+  - Linux
 
 ## Font styles
 There is one major dichotomy, alluded to by various names: Bombay/Calcutta, Southern/Northern, Modern/Old. [http://i.imgur.com/O68gV2O.png](https://google.com/url?sa=D&q=http%3A%2F%2Fi.imgur.com%2FO68gV2O.png) illustrates this.
