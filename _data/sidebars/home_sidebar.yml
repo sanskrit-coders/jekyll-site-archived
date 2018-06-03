@@ -34,6 +34,8 @@ contents:
         url: /pages/content/law.html
       - title: Wikis
         url: /pages/content/wikis.html
+      - title: Websites and blogs
+        url: /pages/websites.html
       - title: Offline web
         url: /pages/content/offline-web.html
   - title: Input
