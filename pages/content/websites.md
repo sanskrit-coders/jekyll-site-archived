@@ -13,4 +13,4 @@ title: Websites and blogs
 ## Search engine optimization
 - Google (Includes indexing for custom search)
   - Observe traffic patterns and crawl status at [Search console](https://www.google.com/webmasters/tools)
-  - Submitting a sitemap submits multiple pages at once for indexing.
+  - Submitting a sitemap there submits multiple pages at once for indexing.
