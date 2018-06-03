@@ -4,7 +4,9 @@ title: Websites and blogs
 
 ## Site hosting services
 - <http://sites.google.com>
-  - Disadvantage: Google holds your data, which is not easily exportable.
+  - Disadvantages
+    - Google holds your data, which is not easily exportable.
+    - New style websites can't be added to Google search console.
   
 ## Static site generators
 - Jekyll
@@ -14,3 +16,4 @@ title: Websites and blogs
 - Google (Includes indexing for custom search)
   - Observe traffic patterns and crawl status at [Search console](https://www.google.com/webmasters/tools)
   - Submitting a sitemap there submits multiple pages at once for indexing.
+  - Submit url tool [here](https://www.google.com/webmasters/tools/submit-url).
