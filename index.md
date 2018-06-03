@@ -16,7 +16,7 @@ We are open source Sanskrit programmers. 
 - Channels of communication: Telegram [here](https://t.me/joinchat/IJu_TkpbnqFvRdFJ7GZ8bQ). Whatsapp group [here](https://chat.whatsapp.com/Lj9cP57WGBeHO4fOfeokoJ). slack [here](https://join.slack.com/t/samskrita/shared_invite/MjQyMDA5MzcyNDA0LTE1MDU0OTkwMjQtMjljMWE4ZDA3NA). Inactive as of 2018: gitter-chat-room [here](https://gitter.im/sanskritcode/Lobby#).
 
 
-## Purpoise of this site
+## Purpose of this site
 - Catalog software and technical info relevant to sanskrit users and coders.
 
 ## Related sites.
