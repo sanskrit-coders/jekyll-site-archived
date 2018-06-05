@@ -7,4 +7,6 @@ toc: false
 <!--Google custom search-->
 {{ site.google_custom_search_code }}
 <!--Google custom search-->
-Note to self: Manage crawling etc. [here](https://www.google.com/webmasters/tools/home?hl=en).
+Note to self: Manage 
+- crawling etc. [here](https://www.google.com/webmasters/tools/home?hl=en). 
+- Custom search engine [here](https://cse.google.com/cse/)
