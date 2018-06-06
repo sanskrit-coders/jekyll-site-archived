@@ -25,6 +25,15 @@ layout: default
         <div class="summary">{{page.summary}}</div>
         {% endif %}
 
+        {% if page.author %}
+        <div class="author">
+            Author: {{page.author}}
+            {% if page.author_link %}
+            <a href="{{page.author_link}}"> (Link) </a>
+            {% endif %}
+        </div>
+        {% endif %}
+
         {{ content }}
     </div>
 

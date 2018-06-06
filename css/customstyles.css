@@ -585,6 +585,15 @@ a[data-toggle] {
     font-weight: bold;
 }
 
+.author {
+    font-size:120%;
+    color: #808080;
+    margin:20px 0px 20px 0px;
+    border-left: 5px solid #5266ed;
+    padding-left: 10px;
+
+}
+
 
 a.fa.fa-envelope-o.mailto {
     font-weight: 600;
