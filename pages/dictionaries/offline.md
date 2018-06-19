@@ -2,19 +2,19 @@
 title: Offline dicts
 ---
 
-Tools elsewhere
----------------
+## Tools elsewhere
+
 - Apps! \[[sp](http://sparshapps.com/), [SJ](https://play.google.com/store/apps/developer?id=Srujan+Jha), [GP](https://play.google.com/store/search?q=sanskrit&c=apps&docType=1&sp=CAFiCgoIc2Fuc2tyaXR6BRgAwAECigECCAE%3D:S:ANO1ljKT9XE), [BV_GOI](http://sanskrit.bharatavani.in/it-tools/)\]
     - Make them available on phones as convenient apps ([S](http://sparshapps.com/)) and as stardict/ goldendict files ([here](https://sites.google.com/site/sanskritcode/dictionaries), **[A](http://www.aupasana.com/stardict)**, **[H](http://sanskrit.inria.fr/goldendict.html)**).
     - On windows [here](https://sourceforge.net/projects/sandic/files/stats/timeline?dates=2012-03-01+to+2017-04-24).
 
-Stardict
---------------
+## Stardict
+
 Introduction: Stardict dictionaries are versatile and easy to use with a number of programs on a variety of devices. This project focuses on making available Indian language dictionaries in this format and enabling their easy installation and use.
 
 ### Dictionaries
 
-- We collect and offer several dictionaries (including those prepared elsewhere). A complete list of dictionary indices [is here](https://github.com/sanskrit-coders/stardict-dictionary-updater/blob/master/dictionaryIndices.md) (and, mirrored with some delay [here](https://github.com/nangia/pydictupdater/blob/master/downloader.py#L7)). This includes:
+- We collect and offer several dictionaries (including those prepared elsewhere). A complete list of dictionary indices [is here](https://github.com/sanskrit-coders/stardict-dictionary-updater/blob/master/dictionaryIndices.md) (and, mirrored with some delay [here](https://github.com/nangia/pydictupdater/blob/master/downloader.py#L7)).
 - These include:
     - [stardict-sanskrit project](https://github.com/vvasuki/stardict-sanskrit)  \- see these [tars.MD files](https://github.com/sanskrit-coders/stardict-sanskrit/search?utf8=%E2%9C%93&q=filename%3Atars.MD). 
     - [stardict-kannada project](https://github.com/vvasuki/stardict-kannada) :   \- see these [tars.MD files](https://github.com/sanskrit-coders/stardict-pali/search?utf8=%E2%9C%93&q=filename%3Atars.MD).. Announcement [here](https://groups.google.com/forum/#!topic/sanskrit-programmers/qrYQWRU4zhU).
@@ -23,7 +23,10 @@ Introduction: Stardict dictionaries are versatile and easy to use with a number 
     - stardict-telugu. 
     - stardict-tamil. 
     - And others
--   
+- Stardict dictionaries elsewhere:
+    - aupAsana.com collection (with very useful installation / usage tips) : [here](http://www.aupasana.com/stardict). Further tips for Linux and Android [here](https://groups.google.com/d/msg/sanskrit-programmers/6kvUHtJfzQE/WrQLZeS-n_AJ).
+    - sanskrit.infria.fr [here](http://sanskrit.inria.fr/goldendict.html).
+
     
 
 ### How to install and use dictionaries on your device?
@@ -76,49 +79,11 @@ Introduction: Stardict dictionaries are versatile and easy to use with a number 
 *   [BVP201702](https://groups.google.com/forum/#!searchin/bvparishat/stardict%7Csort:relevance/bvparishat/HfXleEXdvWM/u8P97bbGAAAJ)  
     
 
-For Dict makers
-----------------
+## For Dict makers
 ### Wiki downloading
 
 - Catscan [here](http://tools.wmflabs.org/catscan2/catscan2.php?language=sa&project=wikiquote&depth=1&categories=%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF&ns%5B0%5D=1&ns%5B14%5D=1&get_q=1&doit=1).
-
-### Dictionary making tips
-
-- Technique to create stardict files
-    - From TSV or babylon source files (and back) using stardict-editor
-        - [stardict.org](http://www.stardict.org/HowToCreateDictionary) ([IMG](http://i.imgur.com/4g00seW.png)).
-        - Starting off a babylon source format is the best.
-    - Other useful tools: babylon, tabfile, dictzip, dictunzip, dictconv ([man](http://man.cx/dictconv(1))ual) . Note tabfile in v 3.0.1 has trouble with duplicate entries in tsvfile. 3.0.5 works fine (need to build and use separately).
-- On the format 
-    - babylon source format (gls file): 
         
-        - \[blank line\]
-        Term | Alternate1 | Alternate2| ... | AlternateK  
-        Definition  
-        \[blank line\]  
-        Term | Alternate1 | Alternate2| ... | AlternateK  
-        Definition  
-        \[blank line\]  
-        ...
-        
-        - <a href="bword://next">next</a>
-    - Special formatting
-        - In TSV file, newline is \\n. 
-        - In Babylon source file, newline is <br>
-    -  stardict format\[Full details [here](https://github.com/sanskrit-coders/stardict-test/blob/master/stardict_format.md)\]:
-        - Toy dictionary [here](https://github.com/sanskrit-coders/stardict-test).
-        - stardict-[index](https://code.google.com/p/stardict-3/wiki/InspectStarDictIndex) stardict-test/stardict-test.idx
-        - syn file format [here](https://code.google.com/p/stardict-3/source/browse/dict/doc/StarDictFileFormat), [here](https://code.google.com/archive/p/babiloo/wikis/StarDict_format.wiki). Example - [stardict-test.syn](https://github.com/sanskrit-coders/stardict-test/blob/master/stardict-test/stardict-test.syn "stardict-test.syn").
-        - simidic wiki [screenshot](http://i.imgur.com/27dYSJP.png), stardict-tools list. 
-    - Monodix (dix) format (use with lttoolbox)
-        - basics [here](http://wiki.apertium.org/wiki/Monodix_basics). Abbreviations [here](http://wiki.apertium.org/wiki/List_of_symbols).
-- Stardict parsers
-    - [java](https://github.com/search?utf8=%E2%9C%93&q=stardict+java&type=Repositories&ref=searchresults). (no syn file support as of 2017)  
-        
-- Stardict dictionaries elsewhere:
-    - aupAsana.com collection (with very useful installation / usage tips) : [here](http://www.aupasana.com/stardict). Further tips for Linux and Android [here](https://groups.google.com/d/msg/sanskrit-programmers/6kvUHtJfzQE/WrQLZeS-n_AJ).
-    - sanskrit.infria.fr [here](http://sanskrit.inria.fr/goldendict.html).
-
 
 ### Plans
 
@@ -170,3 +135,4 @@ For Dict makers
 - Never reinvent the wheel - for example, if you can exploit preexisting dictionary format software, don't waste time writing a new one. Same with dictionaries.
 - Always publish and maintain the dictionary sources in some simple form parseable by both humans and machines, so that you can make/ accept corrections; and people can transform it easily into whatever format they're comfortable with - say text or html files or stardict or babylon.
 - When you make dictionaries out of certain published sources (such as IITS Koeln), please do so with (I'd suggest python or scala) scripts which can be reused to update the stardict/ babylon files when the source files are updated with corrections. That is - don't do it manually in a text editor.
+

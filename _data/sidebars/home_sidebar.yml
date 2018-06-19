@@ -50,6 +50,8 @@ contents:
     contents:
       - title: Intro
         url: /pages/dictionaries/intro.html
+      - title: Formats
+        url: /pages/dictionaries/formats/index.html
       - title: Offline
         url: /pages/dictionaries/offline.html
       - title: Spell check
