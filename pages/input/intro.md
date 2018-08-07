@@ -15,9 +15,12 @@ Title: Intro
 - Some tools/ websites ([1W](http://sahityam.net/wiki/Main_Page), [2W](http://stotrasamhita.net/wiki/Main_Page), ) enable viewing text in script of reader's choice.
 
 ### Transliteration tools, encoding converters
+#### Other lists
+- **[Technical Hindi list](https://sites.google.com/site/technicalhindi/home/converters)**
+
+#### Web tools
 - [Shreevatsa](http://shreevatsa.appspot.com/sanskrit/transliterate.html)
 - [LearnSanskrit (Arun) Js](http://learnsanskrit.org/tools/sanscript)
-- [**Py**](https://github.com/sanskrit/detect.py)
 - **[ACzoom](https://www.aczoom.com/itrans/online/) \[flexible table\]**
 - [H](http://sanskrit.uohyd.ac.in/scl/transliteration/)
 - [Wikimedia](https://github.com/wikimedia/jquery.ime/)
@@ -29,9 +32,18 @@ Title: Intro
 - [Rd](http://rishida.net/scripts/uniview/)
 - [Rp](http://people.w3.org/rishida/scripts/pickers/devanagari/)
 - [Ar](http://www.sanskrit-sanscrito.com.ar/en/essentials_software/index2_software.shtml)
-- **[Technical Hindi list](https://sites.google.com/site/technicalhindi/home/converters)**
 
 #### Offline friendly Html/ JS tools
 - [baraha-unicode](tools/Baraha-to-Unicode-to-Baraha%20Converter01.htm)
 - [ISCII - unicode (for PDF)](tools/ISCII_to_Unicode_to_ISCII_Converter_16_(for_PDF_files).htm)
 - [Roman encodings to devanAgarI unicode](tools/Roman%20Encodings%20to%20Devanagari%20%20Converter_05.html)
+
+#### Libraries
+- Python
+  - (https://github.com/sanskrit-coders/indic_transliteration)
+- Scala
+  - (https://github.com/sanskrit-coders/indic-transliteration)
+- JS
+  - (https://github.com/sanskrit/sanscript.js)
+- PHP
+  - (https://github.com/sanskrit/sanscript.php)
