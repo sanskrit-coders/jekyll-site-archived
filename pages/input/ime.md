@@ -18,7 +18,7 @@ Title: IME/ typing
 
       - Linux ibus sanskrit/ kannada users: For your typing convenience download and use - see [optitrans](optitrans.md).
 
-  - Windows([I](http://en.wikipedia.org/wiki/Intelligent_Input_Bus), [G](http://www.google.com/ime/transliteration/), [M](http://specials.msn.co.in/ilit/WebEmbed.aspx?language=Kannada), [B](https://sites.google.com/site/bhashaime/)..) to input Indic script directly without copy-pasting.
+  - Windows([I](http://en.wikipedia.org/wiki/Intelligent_Input_Bus), [G](http://www.google.com/ime/transliteration/), [MSN](http://specials.msn.co.in/ilit/WebEmbed.aspx?language=Kannada), [Bhasha IME](https://sites.google.com/site/bhashaime/)..) to input Indic script directly without copy-pasting.
 
   - MAC:
     - Lipika IME for IOS and OS X - [github wiki](https://github.com/ratreya/lipika-ime).
