@@ -51,7 +51,10 @@ Introduction: Stardict dictionaries are versatile and easy to use with a number 
     - Android:
         - Goldendict (paid): [here](https://play.google.com/store/apps/details?id=mobi.goldendict.android).
         - Free alternatives:
-            - [com.twn.ebdic](https://play.google.com/store/apps/details?id=com.twn.ebdic) lalitAlAlita strongly endorses this \[[link](https://groups.google.com/d/msg/sanskrit-programmers/z1tCiCwvk04/sU9NEdxQBQAJ)\].
+            - ebdic.
+              - Google play link, inactive as of 2018-08: [com.twn.ebdic](https://play.google.com/store/apps/details?id=com.twn.ebdic)
+              - lalitAlAlita strongly endorses this \[[link](https://groups.google.com/d/msg/sanskrit-programmers/z1tCiCwvk04/sU9NEdxQBQAJ)\].
+              - Install via downloading [apk](https://apkpure.com/ebdic/com.twn.ebdic).
             - [colordict](https://play.google.com/store/apps/details?id=com.socialnmobile.colordict).
                 - Cannot handle dict.dz files without uncompressing. Slightly higher rate of error reports from this app.
             - Goldendict free
