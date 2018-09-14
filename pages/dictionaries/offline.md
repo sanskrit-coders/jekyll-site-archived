@@ -32,7 +32,7 @@ Introduction: Stardict dictionaries are versatile and easy to use with a number 
 ### How to install and use dictionaries on your device?
 
 - Overview:
-    - install the dictionaries on your device (easy with [Stardict Dictionary Installer app](https://play.google.com/store/apps/details?id=sanskritcode.sanskritdictionaryupdater) on android)
+    - install the dictionaries on your device (easy with Stardict Dictionary Installer app on android; available from [play store](https://play.google.com/store/apps/details?id=sanskritcode.sanskritdictionaryupdater) or [amazon store](https://amazon.com/dp/B07HBPZ7P6) or as an [apk](https://raw.githubusercontent.com/sanskrit-coders/stardict-dictionary-updater/master/app/release/app-release.apk))
     - install a dictionary app (see recommendations and notes below).
 - Installation is very simple in most cases!
     - Android:
