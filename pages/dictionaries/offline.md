@@ -32,20 +32,22 @@ Introduction: Stardict dictionaries are versatile and easy to use with a number 
 ### How to install and use dictionaries on your device?
 
 - Overview:
-    - install the dictionaries on your device (easy with Stardict Dictionary Installer app on android; available from [play store](https://play.google.com/store/apps/details?id=sanskritcode.sanskritdictionaryupdater) or [amazon store](https://amazon.com/dp/B07HBPZ7P6) or as an [apk](https://raw.githubusercontent.com/sanskrit-coders/stardict-dictionary-updater/master/app/release/app-release.apk))
+    - install the dictionaries on your device (see recommendations and notes below).
     - install a dictionary app (see recommendations and notes below).
-- Installation is very simple in most cases!
+- Installation of dictionary data is very simple in most cases!
     - Android:
-        - If you have Android 5.0+, you can use [this Stardict Dictionary Installer app](https://play.google.com/store/apps/details?id=sanskritcode.sanskritdictionaryupdater) to install some common dictionaries in one shot. ( I am aware that lower android versions have problems.)
+        - If you have Android 5.0+: easy with Stardict Dictionary Installer app on android; available from [play store](https://play.google.com/store/apps/details?id=sanskritcode.sanskritdictionaryupdater) or [amazon store](https://amazon.com/dp/B07HBPZ7P6) or as an [apk](https://raw.githubusercontent.com/sanskrit-coders/stardict-dictionary-updater/master/app/release/app-release.apk)
             - Ratings certificate: [here](https://iarcweb.azurewebsites.net/Dashboard/Certificate/74e40614-671c-421e-9969-1c80da21a267).
             - Code for this is available for any one to copy and modify [here](https://github.com/sanskrit-coders/stardict-dictionary-updater). (May a 1000 apps bloom!) If you want to contribute new dictionaries to the [stardict-sanskrit project](https://github.com/vvasuki/stardict-sanskrit), that is welcome too.
-            - On some phones, this app crashes. A fix is not known. (Error profile [here](http://i.imgur.com/rDuWodM.png).) Consider using [https://github.com/nangia/pydictupdater](https://github.com/nangia/pydictupdater) instead.
         - On general Android devices, use [https://github.com/nangia/pydictupdater](https://github.com/nangia/pydictupdater) .
         - Still having trouble despite the above? Further workaround tips (if they are necessary) for Android are [in this email](https://groups.google.com/d/msg/sanskrit-programmers/6kvUHtJfzQE/WrQLZeS-n_AJ).
-    - Desktop computer
+    - Desktop computer options:
         - In windows: [SanskritDictionariesInstaller.jar](https://archive.org/download/SanskritDictionariesInstaller/SanskritDictionariesInstaller.jar)  ([github source](https://github.com/avinashvarna/SanskritDictionariesInstaller))
+        - Install Java and use [dict-tools](https://github.com/sanskrit-coders/dict-tools) jar:
+          - Download [dict-tools.jar](https://github.com/sanskrit-coders/dict-tools/raw/master/bin/artifacts/dict-tools.jar).
+          - `java -jar bin/artifacts/dict-tools.jar install /home/vvasuki/sanskrit-coders/stardict-dicts-installed/ https://raw.githubusercontent.com/sanskrit-coders/stardict-dictionary-updater/master/dictionaryIndices.md`
+        - Install python 2.7 and use [https://github.com/nangia/pydictupdater](https://github.com/nangia/pydictupdater)
         - You could just use the instructions analogous to the ones supplied [here](https://github.com/sanskrit-coders/stardict-sanskrit/blob/master/README.md). 
-        - Or you can use [https://github.com/nangia/pydictupdater](https://github.com/nangia/pydictupdater)
     - Instructions from aupAsana.com [here](http://old.aupasana.com/stardict).
 - Recommendations for dictionary apps
     - Android:
