@@ -32,6 +32,12 @@ Title: Intro
 - [Rd](http://rishida.net/scripts/uniview/)
 - [Rp](http://people.w3.org/rishida/scripts/pickers/devanagari/)
 - [Ar](http://www.sanskrit-sanscrito.com.ar/en/essentials_software/index2_software.shtml)
+- Other tools to convert old custom fonts to unicode (P, [T](http://hindi-store.tipsadda.com/2010/11/all-hindi-font-converters.html)).
+  - Online
+      - Unigateway / medha site backend [here](http://sourceforge.net/projects/unigateway/?source=typ_redirect).
+  - Linux
+
+
 
 #### Offline friendly Html/ JS tools
 - [baraha-unicode](tools/Baraha-to-Unicode-to-Baraha%20Converter01.htm)

@@ -1,11 +1,21 @@
 ---
 title: Fonts
 ---
-- Formal attempts at encoding Indian scripts in Unicode([B](http://sanskrit1.ccv.brown.edu/tomcat/sl/ScriptTable), [I](http://tdil.mit.gov.in/Request_Feedback/Grantha.aspx) ), fonts ([**M**](http://svayambhava.org/index.php/en/)). 
-- Tools to convert old custom fonts to unicode (P, [T](http://hindi-store.tipsadda.com/2010/11/all-hindi-font-converters.html)).
-  - Online
-      - Unigateway / medha site backend [here](http://sourceforge.net/projects/unigateway/?source=typ_redirect).
-  - Linux
+
+## Principles
+Several things are required for digitally encoded script to properly appear on the screen.
+
+- First, the representation should be something one's font files and rendering engines understand. Currently, Unicode is the well-entrenched standard.
+- Then, the font should have information about how to render particular code points.
+- Then rendering engines should be able to put the glyphs read from the font dictionary together properly.
+  - Major *complex-text* rendering software:
+    - uniscribe engine or Universal shaping engine in newer version of Windows
+    - harfbuzz in Libreoffice, Chrome, Firefox etc..
+    - CoreText (on macOS)
+  - General rendering software: Cairo or Xft.
+- Also see encoding [conversion tools here](../input/intro.md).
+
+Knowing exactly what is broken will help one report and fix the failure - complaining in the wrong places is too common.
 
 ## Font styles
 There is one major dichotomy, alluded to by various names: Bombay/Calcutta, Southern/Northern, Modern/Old. [http://i.imgur.com/O68gV2O.png](https://google.com/url?sa=D&q=http%3A%2F%2Fi.imgur.com%2FO68gV2O.png) illustrates this.
@@ -38,8 +48,7 @@ Font directories
 ## Best practices for webmasters.
 
 Motivation:
-  - Don't want to rely on (potentially inadequate) fonts and text
-    rendering engines users have? Some users see weird renderings and
+  - Don't want to rely on (potentially inadequate) fonts? Some users see weird renderings and
     report "spelling mistakes" where none exist?
 
 Solution:
@@ -72,13 +81,17 @@ Noto \[[here](https://github.com/googlei18n/noto-fonts/issues)\]
 
 ## Testing
 
-Test using the harfbuzz tool : Ubuntu instructions
-[here](https://groups.google.com/d/msg/sanskrit-programmers/PEQBZ4b4OOg/pPlKqPeEI74J).
-  
+- One can only test sequences in font+rendering engine combination.
+
+### To test using the harfbuzz rendering engine:
+Instructions [here](https://groups.google.com/d/msg/sanskrit-programmers/PEQBZ4b4OOg/pPlKqPeEI74J).
+
   -  hb-view /usr/share/fonts/truetype/ttf-devanagari-fonts/sahadeva.ttf
     अत्र
 
-pango
+### pango
+
+Supposedly can render with HarBuzz or Uniscribe or CoreText!
 
 - pango-view --font "Sahadeva 40" -t अत्र
 - pango-view --markup --text '\<span font\_family="FreeSerif"
@@ -86,8 +99,6 @@ lang="sa" fallback="false"\> अत्र\'
 
 - Markup language
     [here](http://www.pygtk.org/pygtk2reference/pango-markup-language.html).
-Google [font
-tester](http://www.google.com/fonts#ChoosePlace:select/Script:devanagari).
 
 ### Testing on Chrome
 
@@ -103,8 +114,10 @@ Fonts can also be tested on chrome by following a two step process.
 - gmail and its compose window may use some other
 font.
 
+### Other tools
+- Google [font
+tester](http://www.google.com/fonts#ChoosePlace:select/Script:devanagari).
 
-  
 
 ## Text to test
 
