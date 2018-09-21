@@ -60,8 +60,8 @@ earlyaccess fonts there don't support vaidika svara-s
     well.)
 
 Example: 
-  - [1-notosans-devanagari-github.html](https://github.com/sanskrit-coders/sanskritnlpjava/blob/master/src/main/webapp/fonts/1-notosans-devanagari-github.html "1-notosans-devanagari-github.html")
-  - [2-kannada.html](http://sanskritnlp.appspot.com/fonts/2-kannada.html)
+  - [1-notosans-devanagari-github.html](1-notosans-devanagari-github.html)
+  - [2-kannada.html](2-kannada.html)
     (view its source) . 
   - sanskrit-documents ([pic1](http://i.imgur.com/YiPNBQF.png))
 

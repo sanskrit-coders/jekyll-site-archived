@@ -9,7 +9,7 @@ title: Offline websites
 
 ### Intro: Zim
 
-Zim format( [http://www.openzim.org/wiki/Main_Page](http://www.openzim.org/wiki/Main_Page)) is very suitable for making many websites and online books available offline. All this is compressed into a single file of html pages. Thus formatting, java scripts, navigation links to next shlokas, sargas, images, searching, everything is preserved. And all platforms have zim client called kiwix. [http://www.kiwix.org/wiki/Special:MyLanguage/Main_Page](http://www.kiwix.org/wiki/Special:MyLanguage/Main_Page) .  
+Zim format( [http://www.openzim.org/wiki/Main_Page](http://www.openzim.org/wiki/Main_Page)) is very suitable for making many websites and online books available offline. All this is compressed into a single file of html pages. Thus formatting, java scripts, navigation links to next shlokas, sargas, images, searching, everything is preserved. And all platforms have zim client called kiwix. [kiwix-intro](http://www.kiwix.org/wiki/Special:MyLanguage/Main_Page) .
   
 
 ### Uses
@@ -18,9 +18,7 @@ Note from shrI dAmodara:
 
 =======  
 
-To make our texts accessible to all present day people, only way is made it avialble in electronic format , which they have access,now a days  
-more than books.But unfortunately Internet is not avialble cheaply. so it will be useful if we can provide the content ofline, And making  
-option avialble to serve content to an entire institution premices, with out much server equipment and internet.  
+To make our texts accessible to all present day people, only way is made it avialble in electronic format , which they have access, now a days more than books.But unfortunately Internet is not avialble cheaply. so it will be useful if we can provide the content ofline, And making option avilable to serve content to an entire institution premises, with out much server equipment and internet.
   
 Here comes zim and kiwix handful to fullfill that job. presently kiwix can do  
   

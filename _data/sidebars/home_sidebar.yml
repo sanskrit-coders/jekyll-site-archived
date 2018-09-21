@@ -21,7 +21,7 @@ contents:
       - title: Deep reading
         url: /pages/content/deep-reading.html
       - title: Fonts
-        url: /pages/content/fonts.html
+        url: /pages/content/fonts/
       - title: Digitization/ OCR
         contents:
           - title: Intro
