@@ -121,3 +121,10 @@ description: Sanskrit programming/ processing/ publishing/ tools.
 # needed for sitemap.xml file only
 url: http://sanskrit-coders.github.io
 baseurl: "/site" # the subpath of your site, e.g. /blog
+
+remote_theme: sanskrit-coders/sanskrit-documentation-theme
+
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-sitemap
