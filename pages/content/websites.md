@@ -11,6 +11,7 @@ title: Websites and blogs
 ## Static site generators
 - Jekyll
   - Can be used as a wiki - just look at the source for this site.
+  - Also see our <https://sanskrit-coders.github.io/sanskrit-documentation-theme>
   
 ## Search engine optimization
 - Google (Includes indexing for custom search)
