@@ -60,6 +60,8 @@ earlyaccess fonts there don't support vaidika svara-s
     well.)
 
 Example: 
+  - [svaras-siddhaanta.html](svaras-siddhaanta.html)
+  - [svaras-noto.html](svaras-noto.html)
   - [1-notosans-devanagari-github.html](1-notosans-devanagari-github.html)
   - [2-kannada.html](2-kannada.html)
     (view its source) . 
