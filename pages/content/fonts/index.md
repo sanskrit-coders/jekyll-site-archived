@@ -5,9 +5,13 @@ title: Fonts
 ## Principles
 Several things are required for digitally encoded script to properly appear on the screen.
 
-- First, the representation should be something one's font files and rendering engines understand. Currently, Unicode is the well-entrenched standard.
+- First, the representation of a text should be something one's font files and rendering engines understand. Currently, Unicode is the well-entrenched standard.
 - Then, the font should have information about how to render particular code points.
-- Then rendering engines should be able to put the glyphs read from the font dictionary together properly.
+  - At minimum, a font is a collection of shapes (what each letter should look like -- these days this is typically drawing instructions for the outline of the shape, also possibly programs ("hinting") for specific resolutions). But that's not all, a good font should also contain kerning: e.g. when you have "V" followed by "A", the letters should be brought closer together than when you have "V" followed by "T". This is subjective and up to the font designer.
+  - Moreover: a font can also contain substitution rules (like GSUB in OpenType): replace "f" followed by "i" with a particular shape, replace "ह" followed by vowel-sign-vocalic-R with another shape.
+  - A font can also contain more and more instructions, like for [positioning](https://docs.microsoft.com/en-us/typography/opentype/spec/gpos), etc.: it is "data" but it is also "code".
+  - Some font formats allow more kinds of instructions / data than others. OpenType and Graphite are font formats. 
+- Then rendering engines should be able to translate a unicode character sequence to a bunch of "images" by looking at instructions from the font.
   - Major *complex-text* rendering software:
     - uniscribe engine or Universal shaping engine in newer version of Windows
     - harfbuzz in Libreoffice, Chrome, Firefox etc..
