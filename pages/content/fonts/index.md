@@ -6,6 +6,7 @@ title: Fonts
 Several things are required for digitally encoded script to properly appear on the screen.
 
 - First, the representation of a text should be something one's font files and rendering engines understand. Currently, Unicode is the well-entrenched standard.
+  - Also see encoding [conversion tools here](../input/intro.md).
 - Then, the font should have information about how to render particular code points.
   - At minimum, a font is a collection of shapes (what each letter should look like -- these days this is typically drawing instructions for the outline of the shape, also possibly programs ("hinting") for specific resolutions). But that's not all, a good font should also contain kerning: e.g. when you have "V" followed by "A", the letters should be brought closer together than when you have "V" followed by "T". This is subjective and up to the font designer.
   - Moreover: a font can also contain substitution rules (like GSUB in OpenType): replace "f" followed by "i" with a particular shape, replace "ह" followed by vowel-sign-vocalic-R with another shape.
@@ -17,7 +18,6 @@ Several things are required for digitally encoded script to properly appear on t
     - harfbuzz in Libreoffice, Chrome, Firefox etc..
     - CoreText (on macOS)
   - General rendering software: Cairo or Xft.
-- Also see encoding [conversion tools here](../input/intro.md).
 
 Knowing exactly what is broken will help one report and fix the failure - complaining in the wrong places is too common.
 
