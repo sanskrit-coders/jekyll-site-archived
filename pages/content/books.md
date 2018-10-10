@@ -26,7 +26,7 @@ Make Kindle ebook: Techniques
 
 - Create epub book. Convert to mobi.
 - Follow instructions in tutorial [201508](http://www.aliciaramirez.com/2014/05/how-to-make-a-kindle-ebook-from-scratch/).
-- Kindle-store-मध्ये भारतीयभाषाणां पुस्तकानि प्रायो नवीनतर-.azw3-format-द्वारा रचितानि विद्यन्ते। .mobi-format-द्वारा रचितानां देवनीगरीपुस्तकानामुद्घाटनं पृष्ठपरिवर्तनं च महत्कष्टम्। तस्माद् Windows-मध्ये Calibre-द्वारा [KFX Output plugin](https://plugins.calibre-ebook.com/291290.zip) उपयुज्य .azw3-format-संस्कृतानि पुस्तकानि कुर्यात्। (2018)
+- Kindle-store-मध्ये भारतीयभाषाणां पुस्तकानि प्रायो नवीनतर-.azw3-format-द्वारा रचितानि विद्यन्ते। .mobi-format-द्वारा रचितानां देवनागरीपुस्तकानामुद्घाटनं पृष्ठपरिवर्तनं च महत्कष्टम्। तस्माद् Windows-मध्ये Calibre-द्वारा [KFX Output plugin](https://plugins.calibre-ebook.com/291290.zip) उपयुज्य .azw3-format-संस्कृतानि पुस्तकानि कुर्यात्। (2018)
 ### Kindle book publishing
 
 - Unicode tutorial [201508](http://www.aliciaramirez.com/2014/05/how-to-make-a-kindle-ebook-from-scratch/).
