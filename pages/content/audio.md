@@ -8,7 +8,7 @@ title: Audio
 ### Good audio editing programs, libraries and software
 - Audacity
 - Python
-  - See example at <https://github.com/mahabharata-audio-2018/mbh_audio>
+  - See [audio_curation library and examples](https://github.com/sanskrit-coders/audio_curation)
 
 ## General publishing and sharing.
 * Google play music/ audio
