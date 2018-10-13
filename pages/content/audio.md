@@ -1,6 +1,8 @@
 ---
 title: Audio
 ---
+For non-technical audio resources generation projects and listing, see [here](http://sanskrit.github.io/projects/audio/).
+
 ## Audio editing
 ### Loudness
 - "Volume is distinct from loudness. Volume is measured in decibels and is a physical measurement of peak air pressure change in a given acoustic situation. Loudness is a relative value used to compare digital programs based on the maximum loudness of a digital waveform (0.0 LUFS). This is why all LUFS are negative. Peak level is not a good measure of loudness and should not be used to compare audio material to the Google Assistant TTS output." {[Google tip](https://developers.google.com/actions/tools/audio-loudness)}
