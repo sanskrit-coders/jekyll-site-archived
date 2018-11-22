@@ -40,8 +40,8 @@ Make Kindle ebook: Techniques
 
 ### Google play book publishing
 
-- Create ePub book and
-    - "We accept ePub and PDF files (including scans of hard copies) and cover images (JPEG, PDF, PNG, TIFF). If you provide updated files and they process successfully, they'll overwrite the older versions of the same type in our system. Follow our naming guidelines if you are submitting multiple PDF files (e.g., 1234567890\_frontcover.pdf, 1234567890\_interior.pdf, 1234567890_1of2.pdf 1234567890_2of2.pdf). [Learn more](https://support.google.com/books/partner/answer/3297415?hl=en-US)."
+- Create ePub book:
+    - "We accept ePub and PDF files (including scans of hard copies) and cover images (JPEG, PDF, PNG, TIFF). If you provide updated files and they process successfully, they'll overwrite the older versions of the same type in our system. Follow our naming guidelines if you are submitting multiple PDF files (e.g., 1234567890\_frontcover.pdf, 1234567890\_interior.pdf, 1234567890\_1of2.pdf 1234567890\_2of2.pdf). [Learn more](https://support.google.com/books/partner/answer/3297415?hl=en-US)."
     - PDF vs ePub
         - PDF files tend to result in "Fixed" display, meaning that a reader cannot change the font and expect the text to flow into newer lines accordingly. This results in clumsiness.
         - On the other hand, pdf-s are easier to make, with nice book-like finish.
