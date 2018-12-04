@@ -22,11 +22,11 @@ Title: Intro
 - [Shreevatsa](http://shreevatsa.appspot.com/sanskrit/transliterate.html)
 - [LearnSanskrit (Arun) Js](http://learnsanskrit.org/tools/sanscript)
 - **[ACzoom](https://www.aczoom.com/itrans/online/) \[flexible table\]**
+- [Vindodh's aksharamukha](http://www.virtualvinodh.com/aksaramukha) - [py](https://github.com/virtualvinodh/aksharamukha), [php](https://github.com/nareshv/aksharamukha)
 - [H](http://sanskrit.uohyd.ac.in/scl/transliteration/)
 - [Wikimedia](https://github.com/wikimedia/jquery.ime/)
 - [BU](http://sanskrit1.ccv.brown.edu/tomcat/sl/TranscodeText), [BU](http://sanskrit1.ccv.brown.edu/Sanskrit/SanskritTransliterate/index2.html)
 - [Dicrunch](http://www.granthamandira.com/diCrunch/diCrunch.php)
-- [Vindodh's aksharamukha](http://www.virtualvinodh.com/aksaramukha)
 - [D](http://www.aai.uni-hamburg.de/indtib/INDOLIPI/Indolipi.htm)
 - [C](http://sktutils.com/)
 - [Rd](http://rishida.net/scripts/uniview/)
