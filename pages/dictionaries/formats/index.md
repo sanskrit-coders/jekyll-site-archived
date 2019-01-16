@@ -31,10 +31,10 @@ Definition
     - `<a href="bword://next">next</a>`
 
 ## stardict
-- \[Full details [here](https://github.com/sanskrit-coders/stardict-test/blob/master/stardict_format.md)\]:
-- Toy dictionary [here](https://github.com/sanskrit-coders/stardict-test).
+- \[Full details [here](https://github.com/indic-dict/stardict-test/blob/master/stardict_format.md)\]:
+- Toy dictionary [here](https://github.com/indic-dict/stardict-test).
 - stardict-[index](https://code.google.com/p/stardict-3/wiki/InspectStarDictIndex) stardict-test/stardict-test.idx
-- syn file format [here](https://code.google.com/p/stardict-3/source/browse/dict/doc/StarDictFileFormat), [here](https://code.google.com/archive/p/babiloo/wikis/StarDict_format.wiki). Example - [stardict-test.syn](https://github.com/sanskrit-coders/stardict-test/blob/master/stardict-test/stardict-test.syn "stardict-test.syn").
+- syn file format [here](https://code.google.com/p/stardict-3/source/browse/dict/doc/StarDictFileFormat), [here](https://code.google.com/archive/p/babiloo/wikis/StarDict_format.wiki). Example - [stardict-test.syn](https://github.com/indic-dict/stardict-test/blob/master/stardict-test/stardict-test.syn "stardict-test.syn").
 - simidic wiki [screenshot](http://i.imgur.com/27dYSJP.png), stardict-tools list. 
 
 ### Support

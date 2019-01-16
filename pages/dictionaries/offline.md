@@ -14,12 +14,12 @@ Introduction: Stardict dictionaries are versatile and easy to use with a number 
 
 ### Dictionaries
 
-- We collect and offer several dictionaries (including those prepared elsewhere). A complete list of dictionary indices [is here](https://github.com/sanskrit-coders/stardict-dictionary-updater/blob/master/dictionaryIndices.md) (and, mirrored with some delay [here](https://github.com/nangia/pydictupdater/blob/master/downloader.py#L7)).
+- We collect and offer several dictionaries (including those prepared elsewhere). A complete list of dictionary indices [is here](https://github.com/indic-dict/stardict-dictionary-updater/blob/master/dictionaryIndices.md) (and, mirrored with some delay [here](https://github.com/nangia/pydictupdater/blob/master/downloader.py#L7)).
 - These include:
-    - [stardict-sanskrit project](https://github.com/vvasuki/stardict-sanskrit)  \- see these [tars.MD files](https://github.com/sanskrit-coders/stardict-sanskrit/search?utf8=%E2%9C%93&q=filename%3Atars.MD). 
-    - [stardict-kannada project](https://github.com/vvasuki/stardict-kannada) :   \- see these [tars.MD files](https://github.com/sanskrit-coders/stardict-pali/search?utf8=%E2%9C%93&q=filename%3Atars.MD).. Announcement [here](https://groups.google.com/forum/#!topic/sanskrit-programmers/qrYQWRU4zhU).
-    - [stardict-pali](https://github.com/sanskrit-coders/stardict-pali) project: See dictionary archive links in [tars.MD](https://github.com/sanskrit-coders/stardict-pali/blob/master/en-head/tars/tars.MD). Announcement [here](https://groups.google.com/forum/#!topic/sanskrit-programmers/5XBms03IRus).
-    - [stardict-hindi](https://github.com/sanskrit-coders/stardict-hindi).
+    - [stardict-sanskrit project](https://github.com/vvasuki/stardict-sanskrit)  \- see these [tars.MD files](https://github.com/indic-dict/stardict-sanskrit/search?utf8=%E2%9C%93&q=filename%3Atars.MD). 
+    - [stardict-kannada project](https://github.com/vvasuki/stardict-kannada) :   \- see these [tars.MD files](https://github.com/indic-dict/stardict-pali/search?utf8=%E2%9C%93&q=filename%3Atars.MD).. Announcement [here](https://groups.google.com/forum/#!topic/sanskrit-programmers/qrYQWRU4zhU).
+    - [stardict-pali](https://github.com/indic-dict/stardict-pali) project: See dictionary archive links in [tars.MD](https://github.com/indic-dict/stardict-pali/blob/master/en-head/tars/tars.MD). Announcement [here](https://groups.google.com/forum/#!topic/sanskrit-programmers/5XBms03IRus).
+    - [stardict-hindi](https://github.com/indic-dict/stardict-hindi).
     - stardict-telugu. 
     - stardict-tamil. 
     - And others
@@ -38,7 +38,7 @@ Introduction: Stardict dictionaries are versatile and easy to use with a number 
     - Android:
         - If you have Android 5.0+: easy with Stardict Dictionary Installer app on android; available from [play store](https://play.google.com/store/apps/details?id=sanskritcode.sanskritdictionaryupdater) or [amazon store](https://amazon.com/dp/B07HBPZ7P6) or as an [apk](https://raw.githubusercontent.com/sanskrit-coders/stardict-dictionary-updater/master/app/release/app-release.apk)
             - Ratings certificate: [here](https://iarcweb.azurewebsites.net/Dashboard/Certificate/74e40614-671c-421e-9969-1c80da21a267).
-            - Code for this is available for any one to copy and modify [here](https://github.com/sanskrit-coders/stardict-dictionary-updater). (May a 1000 apps bloom!) If you want to contribute new dictionaries to the [stardict-sanskrit project](https://github.com/vvasuki/stardict-sanskrit), that is welcome too.
+            - Code for this is available for any one to copy and modify [here](https://github.com/indic-dict/stardict-dictionary-updater). (May a 1000 apps bloom!) If you want to contribute new dictionaries to the [stardict-sanskrit project](https://github.com/vvasuki/stardict-sanskrit), that is welcome too.
         - On general Android devices, use [https://github.com/nangia/pydictupdater](https://github.com/nangia/pydictupdater) .
         - Still having trouble despite the above? Further workaround tips (if they are necessary) for Android are [in this email](https://groups.google.com/d/msg/sanskrit-programmers/6kvUHtJfzQE/WrQLZeS-n_AJ).
     - Desktop computer options:
@@ -47,7 +47,7 @@ Introduction: Stardict dictionaries are versatile and easy to use with a number 
           - Download [dict-tools.jar](https://github.com/sanskrit-coders/dict-tools/raw/master/bin/artifacts/dict-tools.jar).
           - `java -jar bin/artifacts/dict-tools.jar install /home/vvasuki/sanskrit-coders/stardict-dicts-installed/ https://raw.githubusercontent.com/sanskrit-coders/stardict-dictionary-updater/master/dictionaryIndices.md`
         - Install python 2.7 and use [https://github.com/nangia/pydictupdater](https://github.com/nangia/pydictupdater)
-        - You could just use the instructions analogous to the ones supplied [here](https://github.com/sanskrit-coders/stardict-sanskrit/blob/master/README.md). 
+        - You could just use the instructions analogous to the ones supplied [here](https://github.com/indic-dict/stardict-sanskrit/blob/master/README.md). 
     - Instructions from aupAsana.com [here](http://old.aupasana.com/stardict).
 - Recommendations for dictionary apps
     - Android:

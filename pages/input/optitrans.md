@@ -107,7 +107,7 @@ Known implementations
         *   Older versions: ( [hi-itrans](http://git.savannah.gnu.org/cgit/m17n/m17n-db.git/tree/MIM/hi-itrans.mim), [sa-itrans](http://git.savannah.gnu.org/cgit/m17n/m17n-db.git/tree/MIM/sa-itrans.mim))  may be be moved to *-optitrans.
         *   Installation tips [here](ime.md).
 
-*   optitransv1 is used for lookups by the stardict-sanskrit project \[[1](https://github.com/sanskrit-coders/stardict-sanskrit/issues/71)\].
+*   optitransv1 is used for lookups by the stardict-sanskrit project \[[1](https://github.com/indic-dict/stardict-sanskrit/issues/71)\].
 *   Gmail's hindI and sanskrit phonetic input are similar.
 
 Related files
