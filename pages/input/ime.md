@@ -1,5 +1,5 @@
 ---
-Title: IME/ typing
+title: IME/ typing
 ---
 
 ## Linux
